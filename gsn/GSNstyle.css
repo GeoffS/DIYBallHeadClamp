@@ -122,6 +122,11 @@ indent4 {
 .rightIndent3 {
    margin-right: 20%
 }
+.center {
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+}
 .logo {
    font-family: Impact, Arial, Helvetica, sans-serif;
    font-style: italic;
